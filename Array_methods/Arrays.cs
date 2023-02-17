@@ -16,6 +16,7 @@ namespace Array_methods
 
         public int array_max(int[] arr)
         {
+            // print_multi_array();
             int max = 0;
             int x = 0;
             foreach (var i in arr)
@@ -39,6 +40,28 @@ namespace Array_methods
                 x++;
             }
             return max;
+        }
+
+        public void print_multi_array()
+        {
+            int[,] numbers = {
+                { 1, 4, 2 }, 
+                { 3, 6, 8 } 
+                };
+
+            for (int i = 0; i < numbers.GetLength(0); i++)
+            {
+                for (int j = 0; j < numbers.GetLength(1); j++)
+                {
+                    Console.WriteLine(numbers[i, j]);
+                }
+            }
+        }
+
+        public void MyMethod(string country = "Norway")
+        {
+            Console.WriteLine(country);
+            // return country;
         }
     }
 }
