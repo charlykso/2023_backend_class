@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\numberExcercise\\numberExcercise.csproj": {}
+    "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\ClassMethods\\ClassMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\numberExcercise\\numberExcercise.csproj": {
+    "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\ClassMethods\\ClassMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\numberExcercise\\numberExcercise.csproj",
-        "projectName": "numberExcercise",
-        "projectPath": "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\numberExcercise\\numberExcercise.csproj",
+        "projectUniqueName": "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\ClassMethods\\ClassMethods.csproj",
+        "projectName": "ClassMethods",
+        "projectPath": "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\ClassMethods\\ClassMethods.csproj",
         "packagesPath": "C:\\Users\\Ikenna Remigius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\numberExcercise\\obj\\",
+        "outputPath": "C:\\Users\\Ikenna Remigius\\Documents\\Listacc ICT Academy\\lesson\\2023_backend_class\\ClassMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ikenna Remigius\\AppData\\Roaming\\NuGet\\NuGet.Config",

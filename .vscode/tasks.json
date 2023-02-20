@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/numberExcercise/numberExcercise.csproj",
+                "${workspaceFolder}/Array_methods/Array_methods.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/numberExcercise/numberExcercise.csproj",
+                "${workspaceFolder}/Array_methods/Array_methods.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/numberExcercise/numberExcercise.csproj"
+                "${workspaceFolder}/Array_methods/Array_methods.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

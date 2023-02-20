@@ -63,5 +63,18 @@ namespace Array_methods
             Console.WriteLine(country);
             // return country;
         }
+
+        public string reverse_string(string str)
+        {
+            string result = "";
+            int count = str.Length - 1;
+
+            for (int i = 0; i <= count; )
+            {
+                result = result + str[count];
+                count--;
+            }
+            return result;
+        }
     }
 }

@@ -10,5 +10,8 @@ Console.WriteLine(newArr.array_max(list));
 
 // newArr.print_multi_array();
 
-// string country = "Nigeria";
-newArr.MyMethod();
+string country = "Nigeria";
+newArr.MyMethod(country);
+
+string str = "hello";
+Console.WriteLine(newArr.reverse_string(str));
