@@ -12,8 +12,24 @@
 // Console.WriteLine(volvo.color);
 // Console.WriteLine(toyota.color);
 
-OopClass.Person newPerson = new OopClass.Person();
-newPerson.Name = "Ikenna";
-Console.WriteLine(newPerson.Name);
-newPerson.Age = 12;
-Console.WriteLine(newPerson.Age);
+OopClass.Car newCar = new OopClass.Car();
+newCar.honk();
+
+Console.WriteLine(newCar.brand +" "+ newCar.ModelName);
+
+OopClass.NormalUser newUser = new OopClass.NormalUser();
+
+newUser.firstname = "Emmanuel";
+newUser.lastname = "Eze";
+newUser.email = "emmanuel@gmail.com";
+newUser.phoneNo = "+2347056453423";
+newUser.year = 100;
+newUser.created_at = DateTime.Now;
+newUser.updated_at = DateTime.Now;
+
+OopClass.Admin newAdmin = new OopClass.Admin();
+
+newAdmin.firstname = "Ikenna";
+newAdmin.lastname = "Remigius";
+newAdmin.created_at = DateTime.Now;
+newAdmin.
