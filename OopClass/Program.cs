@@ -32,4 +32,15 @@ OopClass.Admin newAdmin = new OopClass.Admin();
 newAdmin.firstname = "Ikenna";
 newAdmin.lastname = "Remigius";
 newAdmin.created_at = DateTime.Now;
-newAdmin.
+
+
+OopClass.Dog newDog = new OopClass.Dog();
+OopClass.Pig newPig = new OopClass.Pig();
+// OopClass.Animal newAnimal = new OopClass.Animal();
+
+newDog.makeNoise();
+newPig.makeNoise();
+// newAnimal.makeNoise();
+newDog.name = "Wisky";
+newDog.ear = 2;
+Console.WriteLine(newDog.name);
