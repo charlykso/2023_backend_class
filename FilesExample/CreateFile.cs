@@ -36,5 +36,11 @@ namespace FilesExample
             string newName = name.Replace(" ", "_").ToLower();
             Console.WriteLine(newName);
         }
+
+        public static void getDate()
+        {
+            string newDate = DateTime.Now.ToString();
+            Console.WriteLine(newDate);
+        }
     }
 }

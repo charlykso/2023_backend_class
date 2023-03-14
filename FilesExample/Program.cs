@@ -2,6 +2,7 @@
 // Console.WriteLine("Hello, World!");
 
 // FilesExample.CreateFile.Create();
-FilesExample.CreateFile.checkFile();
+// FilesExample.CreateFile.checkFile();
+FilesExample.CreateFile.getDate();
 // FilesExample.CreateFile.stringFunc();
 

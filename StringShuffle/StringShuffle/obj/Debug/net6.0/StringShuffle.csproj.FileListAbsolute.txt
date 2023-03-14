@@ -1,0 +1,15 @@
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\bin\Debug\net6.0\StringShuffle.exe
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\bin\Debug\net6.0\StringShuffle.deps.json
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\bin\Debug\net6.0\StringShuffle.runtimeconfig.json
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\bin\Debug\net6.0\StringShuffle.dll
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\bin\Debug\net6.0\StringShuffle.pdb
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\StringShuffle.csproj.AssemblyReference.cache
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\StringShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\StringShuffle.AssemblyInfoInputs.cache
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\StringShuffle.AssemblyInfo.cs
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\StringShuffle.csproj.CoreCompileInputs.cache
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\StringShuffle.dll
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\refint\StringShuffle.dll
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\StringShuffle.pdb
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\StringShuffle.genruntimeconfig.cache
+C:\ASP_DOTNETCORE\2023_backend_class\StringShuffle\StringShuffle\obj\Debug\net6.0\ref\StringShuffle.dll
