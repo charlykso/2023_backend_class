@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\ASP_Example.csproj": {}
+    "C:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\ASP_Example.csproj": {}
   },
   "projects": {
-    "c:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\ASP_Example.csproj": {
+    "C:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\ASP_Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\ASP_Example.csproj",
+        "projectUniqueName": "C:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\ASP_Example.csproj",
         "projectName": "ASP_Example",
-        "projectPath": "c:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\ASP_Example.csproj",
+        "projectPath": "C:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\ASP_Example.csproj",
         "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
-        "outputPath": "c:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\obj\\",
+        "outputPath": "C:\\ASP_DOTNETCORE\\2023_backend_class\\ASP_Example\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,9 +45,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "BCrypt.Net": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[0.1.0, )"
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

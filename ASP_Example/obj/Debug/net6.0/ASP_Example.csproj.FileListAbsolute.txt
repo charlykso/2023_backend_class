@@ -25,4 +25,14 @@ C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\obj\Debug\net6.0\refint\ASP_Exa
 C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\obj\Debug\net6.0\ASP_Example.pdb
 C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\obj\Debug\net6.0\ASP_Example.genruntimeconfig.cache
 C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\obj\Debug\net6.0\ref\ASP_Example.dll
-C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\BCrypt.Net.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\ASP_DOTNETCORE\2023_backend_class\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
